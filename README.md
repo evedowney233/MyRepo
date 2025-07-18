@@ -6,3 +6,5 @@ This is a line from RStudio
 This is a line added from Github
 
 New line from Rstudio
+
+New line from Github
